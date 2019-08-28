@@ -1,46 +1,19 @@
-body {
-  background-color: lightblue;
-  font-family: sans-serif;
+img{
+   border-radius: 50%;
+   box-shadow: 10px 10px 10px 10px #888888;
 }
+body{
+    padding: 0px;
+    margin:0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;    
+    background:rgba(196, 196, 196, 0.29);
+    height: 100vh;
+    width: 100vw;
+    color: rgba(0,0,0,0.842);
+    text-align: center;
 
-h1 {
-  color: purple;
-  text-align: center;
 }
-
-p {
-  
-  font-size: 20px;
-  color: red;
-}
-h3 {
-  color: purple;
-  text-align: center;
-}
-table {
-  border-collapse: collapse;
-}
-
-table, th, td {
-  border: 1px solid brown;
-}
-/*ol {
-  background: #ff9999;
-  padding: 20px;
-}*/
-
-ul {
-  background: black;
-  padding: 20px;
-}
-
-/*ol li {
-  background: #ffe5e5;
-  padding: 5px;
-  margin-left: 35px;
-}
-*/
-ul li {
-  background: red;
-  margin: 5px;
+a{
+    text-decoration: none;
+    color: inherit;
 }
